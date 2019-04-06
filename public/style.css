@@ -139,3 +139,136 @@ footer {
   font-size: 30px;
   margin-right: 20px;
 }
+
+/* ========================== LOG IN ==================================== */
+.logBod {
+  background-color: mistyrose;
+}
+
+.container {
+  background-color: #f9f9f9f7;
+  height: 500px;
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 140px;
+  border-radius: 20px;
+}
+
+.sign {
+  color: #DB4E4E;
+}
+
+.btn-warning {
+  color: #DB4E4E;
+  background-color: #f9f9f9;
+  border-color: #DB4E4E;
+  height: 40px;
+  width: 20%;
+  border-radius: 10px;
+  margin-left: 65%;
+  font-size: 15px;
+}
+
+.log {
+  color: #DB4E4E;
+  padding-top: 40px;
+  margin-left: 20%;
+  font-size: 40px;
+  font-family: 'Playfair Display', serif;
+}
+
+.info {
+  color: #DB4E4E;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+input.form-control {
+  height: 40px;
+  width: 70%;
+  margin-left: 6%;
+  margin-bottom: 20px;
+  border-radius: 12px;
+  border: 1px solid gray;
+}
+
+#pw {
+  margin-left: 2px;
+}
+
+p {
+  margin-left: 10%;
+  font-family: 'Titillium Web', sans-serif;
+  margin-top: 20px;
+}
+
+/* ========================== PROFILE ==================================== */
+.proBod {
+  background-color: #f9f9f9;
+}
+
+.profHead {
+  height: 100px;
+  width: 100%;
+  background-color: #DB4E4E;
+}
+
+.adoptable {
+  height: 500px;
+  margin-top: 50px;
+  margin-left: 25%;
+}
+
+.fa-bookmark {
+  font-size: 40px;
+  color: #DB4E4E;
+  margin-left: 90%;
+}
+
+.fa-heart-broken, .fa-heart {
+  color: #DB4E4E;
+  font-size: 40px;
+  margin-left: 5%;
+}
+
+.status {
+  margin-left: 43%;
+  margin-top: 20px;
+}
+
+.pref {
+  color: #DB4E4E;
+  font-family: 'Playfair Display', serif;
+  font-size: 45px;
+  margin-left: 20%;
+}
+
+select {
+  color: #DB4E4E;
+  font-family: 'Playfair Display', serif;
+  font-size: 20px;
+  height: 40px;
+  width: 40%;
+  margin-bottom: 20px;
+  margin-left: 5%;
+}
+
+form {
+  color: font-family: 'Playfair Display', serif;
+  color: #DB4E4E;
+  height: 40px;
+}
+
+input {
+  height: 40px;
+  width: 80%;
+}
+
+.prefBod {
+  background-color: mistyrose;
+}
+
+.dropdown {
+  margin-left: 11%;
+}
